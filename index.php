@@ -61,7 +61,7 @@ and open the template in the editor.
              <div class="col-md-6">
 
                 <div id="jumbotronny" class="jumbotron"> 
-                    <h6>Pressão do ar atual Brusque<span id="pressao"></span>
+                    <h6>Pressão do ar atual Brusque
                         <img width="120px" src="img/ícones/pressao.png"/></h6>
                      <p>Pressão do ar: <span id="pressao"></span></p>
 

@@ -12,7 +12,7 @@ function getClima() {
 
             $('#temperatura').html(tempFormatada + "º");
             $('#umidade').html(data.main.humidity);
-            $('#pressão').html(data.main.pressure);
+            $('#pressao').html(data.main.pressure);
            
              temperaturaMax = data.main.temp_max - 273;
             var tempMaxFormatada = temperaturaMax.toFixed(2).split('.');
